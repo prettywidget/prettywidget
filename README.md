@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Pretty Widgets
 
 Pretty Widgets lets you add stylish widgets directly onto your home screen! Choose from premade widget designs, or better yet, make your own, Pretty Widgets is Perfect for customizing and styling your home screen.
